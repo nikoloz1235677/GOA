@@ -4,8 +4,3 @@ age = 11
 text = "I am programer"
 print("I am " + name + "my surname is" + surname + "my age is" + str(age) + "and " + text)
 
-
-fruit = "apple" 
-fruit = "banani"
-fruit = "orenge"
-print(fruit)

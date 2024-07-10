@@ -1,5 +1,9 @@
-num1=5
-num2=8
-print(num1*num2)
+Name="nikoloz"
+age=11
+height=1.50
 
-print(num1/num2)
+
+
+print(Name)
+print(age)
+print(haight)

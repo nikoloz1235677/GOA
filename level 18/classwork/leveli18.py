@@ -1,5 +1,5 @@
 -1,52 +1,52 
- task 1
+task 1
  i = 0
  for i in range(10): 
      i += 1

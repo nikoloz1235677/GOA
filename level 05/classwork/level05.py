@@ -1,13 +1,7 @@
-num1=60
-num2=num1+5
-print(num2)
 
+#reassing  nishnavs rodesac cvlads vanijebt axal mnishvnelobas 
+name="nikoloz"
+name="lasha"
 
-num1=54
-num2=90
-num3=num1+num2
-print(num3)
-
-
-
-
+#debugging nishnavs kodshi shecdomebis gasworeba
+#komentars imitom viyenebt rom gavigot ra gviweria kodis garkveul nawilshi

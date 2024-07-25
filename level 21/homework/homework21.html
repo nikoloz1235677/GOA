@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Registration Form</title>
+</head>
+<body>
+    <h2>Registration Form</h2>
+    <form action="submit" method="post">
+        <label for="name">Full_Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label >Country:</label>
+        <select id="country" name="country" required>
+            <option value="" disabled selected>Select your country</option>
+            <option value="Georgia">Georgia</option>
+        </select><br><br>
+
+        <label >City:</label>
+        <select id="city" name="city" required>
+
+            <option value=" tbilisi " >tbilisi</option>
+            <option value=" qutaisi " >qutaisi</option>
+            <option value=" rustavi " >rustavi</option>
+        </select><br><br>
+
+        <button type="submit">Register</button>
+    </form>
+</body>
+</html>

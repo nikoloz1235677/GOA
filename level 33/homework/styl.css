@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(250, 255, 186);
+}
+#tbl {
+    font-size: 30px;
+    text-align: center;    
+    height: 400px;
+    width: 400px;
+    margin-top: 200px;
+    margin-left: 500px;
+    color: brown;
+    background-color: black;
+    border: 2px solid;
+}
+#tbl:hover {
+    color: rgb(0, 255, 170);
+    font-size: 40px;
+    transition: 1.2s;
+}
+.s {
+    background-color: rgb(200, 230, 255);
+}

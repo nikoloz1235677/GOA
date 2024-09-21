@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.r-l {
+    list-style-type: upper-alpha; 
+    padding-left: 20px; 
+}
+
+.r-l li {
+    margin-bottom: 15px; 
+}
+
+.txt {
+    margin-top: 5px; 
+    padding-left: 20px; 
+    color: gray; 
+}

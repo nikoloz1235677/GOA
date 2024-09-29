@@ -1,0 +1,26 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+  }
+  
+  
+  .box1{
+      width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+  }
+  
+  
+  
+  .box2{
+      width: 200px;
+    height: 200px;
+    background-color: black;
+  }
+  
+  
+  
+  .conteiner{
+      display: flex;
+  }

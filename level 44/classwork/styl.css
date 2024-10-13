@@ -1,0 +1,28 @@
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: tomato;
+    transition: background-color 2s border-radius 5s width 1s;
+}
+.box:hover{
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+}
+
+
+
+
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    transition: margin-right 100px 5s background-color 1s;
+}
+
+
+.box1:hover{
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+}

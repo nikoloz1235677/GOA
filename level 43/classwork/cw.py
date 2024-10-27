@@ -20,3 +20,29 @@ mycompiuter ={
 
 print(mycompiuter)
 print(chemitavze)
+
+
+
+
+
+fruit1 = {
+    "apple": "🍏",
+    "banana": "🍌",
+    "grape": "🍇",
+    "watermelon": "🍉",
+    "melon": "🍈"
+}
+
+fruit2 = {
+    "kiwi": "🥝",
+    "orange": "🍊",
+    "strawberry": "🍓",
+    "pineapple": "🍍",
+    "peach": "🍑"
+}
+
+num1 = list(fruit1.keys())
+num2 = list(fruit2.keys())
+
+print(num1)
+print(num2)

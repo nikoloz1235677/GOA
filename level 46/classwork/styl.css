@@ -1,0 +1,21 @@
+.box4 {
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    animation: animate 2s forwards;
+}
+
+@keyframes animate {
+    0% {
+        background-color: red;
+        transform: scale(4) rotate(88deg);
+    }
+    50% {
+        background-color: blue;
+        transform: scale(8) rotate(90deg);
+    }
+    100% {
+        background-color: rgb(699, 128, 86);
+        transform: scale(6) rotate(120);
+    }
+}
